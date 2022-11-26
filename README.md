@@ -3,6 +3,7 @@
 
 - 💪 I like to write code
 
-- 📫 How to reach me: [telegram](https://t.me/gaydaychuk) and [mail](Gaida95@yandex.ru)
+- 📫 How to reach me: [telegram](https://t.me/gaydaychuk)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcorinna&layout=compact&theme=algolia)](https://github.com/lcorinna/github-readme-stats)
